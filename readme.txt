@@ -4,7 +4,7 @@ Donate link: 		https://yoast.com/wordpress/plugins/duplicate-post/
 Tags: 				duplicate post, copy, clone
 Requires at least: 	5.6
 Tested up to: 		5.8
-Stable tag: 		4.2-RC1
+Stable tag: 		4.2
 Requires PHP:		5.6.20
 License: 			GPLv2 or later
 License URI: 		http://www.gnu.org/licenses/gpl-2.0.html
@@ -151,12 +151,12 @@ New features and customization, WP 3.0 compatibility: you should upgrade if you 
 
 == Changelog ==
 
-= 4.2 (2021-11) =
+= 4.2 (2021-11-18) =
 
 Bugfixes:
 
 * Fixes a bug where some strings where not translated.
-* Fixes a bug where meta data went missing for duplicate posts created by the Rewrite & Republish feature. Props to @ocean90.
+* Fixes a bug where meta data went missing for duplicate posts created by the Rewrite & Republish feature. Props to [ocean90](https://github.com/ocean90).
 * Fixes a bug where the plugin would not initialize if installed via composer.
 
 Other:
