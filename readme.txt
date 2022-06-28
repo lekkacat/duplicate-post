@@ -4,7 +4,7 @@ Donate link: 		https://yoast.com/wordpress/plugins/duplicate-post/
 Tags: 				duplicate post, copy, clone
 Requires at least: 	5.8
 Tested up to: 		6.0
-Stable tag: 		4.5-RC1
+Stable tag: 		4.5
 Requires PHP:		5.6.20
 License: 			GPLv2 or later
 License URI: 		http://www.gnu.org/licenses/gpl-2.0.html
@@ -74,10 +74,9 @@ If Duplicate Post is still in English, or if there are some untranslated strings
 = 4.5 =
 Release Date: June 28th, 2022
 
-
 Enhancements:
 
-* Reduces the impact of the plugin on the performance of the site by avoding useless calls on the `gettext` filter.
+* Improves the impact of the plugin on the performance of the site by avoiding useless calls on the `gettext` filter.
 
 Bugfixes:
 
